@@ -32,7 +32,7 @@
 
 		#include <lostream>
 		
-		using napespace std;
+		using namespace std;
 		
 		int main() {
 		    count << 777 << endl;
@@ -47,8 +47,8 @@
 
 | **Платформа** | **Ссылка**                                                  | **Отвечу за** |
 |---------------|-------------------------------------------------------------|---------------|
-| Почта         | [Ссылка]{https://www.tablesgenerator.com/markdown_tables}   | 24 часа       |
-| LinkedIn      | [Ссылка]{ https://www.tablesgenerator.com/markdown_tables } | 3 часа        |
-| WhatsApp      | [Ссылка]{ https://www.tablesgenerator.com/markdown_tables } | 30 минут      |
-| Telegram      | [Ссылка]{ https://www.tablesgenerator.com/markdown_tables } | 5 минут       |
+| Почта         | [Ссылка](https://www.tablesgenerator.com/markdown_tables)   | 24 часа       |
+| LinkedIn      | [Ссылка]( https://www.tablesgenerator.com/markdown_tables ) | 3 часа        |
+| WhatsApp      | [Ссылка]( https://www.tablesgenerator.com/markdown_tables ) | 30 минут      |
+| Telegram      | [Ссылка]( https://www.tablesgenerator.com/markdown_tables ) | 5 минут       |
 
