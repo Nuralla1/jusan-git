@@ -52,3 +52,5 @@
 | WhatsApp      | [Ссылка]( https://www.tablesgenerator.com/markdown_tables ) | 30 минут      |
 | Telegram      | [Ссылка]( https://www.tablesgenerator.com/markdown_tables ) | 5 минут       |
 
+Скрипт <username.sh> выводит мое имя - формат свободный.
+
